@@ -257,15 +257,14 @@
 
 		// Função para retornar os números pares de um vetor.
 		function pares($v) {
-
+			
 		}
 
 		// Função para verificar se um vetor está ordenado.
 		// Exemplo: [2, 2, 3] (V)   [2, 1, 4] (F).
 		function ordenado($v) {
-
+			
 		}
-
 
 		$vetor = array(3, 5, 8, 7);
 
