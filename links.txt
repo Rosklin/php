@@ -1,0 +1,6 @@
+Apostila PHP + MySQL
+	https://www.cin.ufpe.br/~ags/2464_php_com_mysql.pdf
+
+Orientação a Objetos
+	https://code.tutsplus.com/pt/tutorials/object-oriented-php-for-beginners--net-12762
+
